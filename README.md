@@ -33,4 +33,9 @@ How do you learn about "game culture?" Where do gamers meet and hang out and sha
 
 * Satoru Iwata
 
-* John "TotalBiscuit" Bain
+* [John "TotalBiscuit" Bain](https://en.wikipedia.org/wiki/TotalBiscuit)
+
+  Work on YouTube:
+  
+  - [TotalBiscuit](https://www.youtube.com/channel/UCy1Ms_5qBTawC-k7PVjHXKQ)
+  - [The Co-Optional Podcast]()
