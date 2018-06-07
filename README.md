@@ -19,6 +19,14 @@ Are there experiences like yours? Do you aspire to their lives and experiences?
 
 What makes you, you?
 
+What is a currently interesting question to you about games?
+* Do games make people violent?
+* Are games art vs. do games include artwork? (How do you define art? If artists work on something is it art?)
+* How are particular kinds of games made?
+  - Launcher games - Burrito Bison Revenge on Addicting Games
+  - VR
+  - Multi-player
+
 ## What Makes A Good Critique
 
 How do you learn about "game culture?" Where do gamers meet and hang out and share ideas about games.
